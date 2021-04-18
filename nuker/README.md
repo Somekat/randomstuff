@@ -1,5 +1,5 @@
 # Nuker bot
-Let me get this clear, DO NOT USE THIS FOR MALICIOUS PURPOSES! This is just something i decided to make for literally no reason, please do not use this to run someone's server.
+Let me get this clear, DO NOT USE THIS FOR MALICIOUS PURPOSES! This is just something i decided to make for literally no reason, please do not use this to ruin someone's server.
 
 Now that that's out of the way, lets continue.
 
