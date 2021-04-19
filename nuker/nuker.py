@@ -1,4 +1,4 @@
-# nuke bot by MEDMEX#1337/MaxDaKing
+# nuke bot by MEDMEX#1337/MaxDaKing, edited by mcfan4256#1111 for more stonks
 
 import discord
 from discord.ext import commands
